@@ -2,6 +2,10 @@
 
 This repository is a curated guide for preparing technical interviews in Data Science and Machine Learning Engineering roles. It covers algorithms, system design, modeling, statistics, and product sense—designed for candidates targeting roles at top tech firms, startups, and research labs.
 
+# Talks
+
+*   **Career Advice in AI** - Andrew Ng, Kian Katanforoosh (2025) - [[Link to Recording](https://www.youtube.com/watch?v=AuZoDsNmG_s)]
+
 # Contents
 
 1. Math & Statistics
