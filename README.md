@@ -26,7 +26,7 @@ This repository is a curated guide for preparing technical interviews in Data Sc
 
 3. Data Structures & Algorithms
 - The Algorithm Design Manual – Steven Skiena
-- LeetCode Questions (Dynamic Programming, Graphs, Sliding Window)
+- LeetCode Questions
 
 4. System Design
 - General System Design
@@ -40,5 +40,4 @@ This repository is a curated guide for preparing technical interviews in Data Sc
 5. Product Sense & Business Impact
 - Lean Analytics
 - Take-home challenges & product case studies
-- LOMS-style consulting interview prep
 - Metrics design for ML products (precision, recall, ROI, fairness)
