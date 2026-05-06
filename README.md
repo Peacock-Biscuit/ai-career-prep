@@ -15,6 +15,9 @@ This repository is a curated guide for preparing technical interviews in Data Sc
 - Time Series Analysis – Box-Jenkins
 - Multivariate Data Analysis
 - Causal Inference
+  * Causality by Judea Pearl
+  * Causal Inference: What If by James Robins and Miguel A. Hernan
+  * Causal Inference in Statistics: A Primer by Judea Pearl, Madelyn Glymour, and Nicholas P. Jewell
   * Trustworthy Online Experiments
   * A/B Testing (Udacity)
 
